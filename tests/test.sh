@@ -15,9 +15,7 @@ if [ $? -eq 0 ]; then
 else
   echo 0 > /logs/verifier/reward.txt
 fi
-<<<<<<< Updated upstream
+Updated upstream
 End 
 
-=======
-End 
->>>>>>> Stashed changes
+tashed changes

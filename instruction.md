@@ -12,11 +12,12 @@
     hint at or reveal your solution).
   - Keep it concise (<= 1500 tokens). State the goal and required outputs; skip
     backstory, roleplay, and filler.
--->
+
 
 Replace this file with your task instruction.
-<<<<<<< Updated upstream
+Updated upstream
 
-=======
+
 End 
->>>>>>> Stashed changes
+Stashed changes
+
