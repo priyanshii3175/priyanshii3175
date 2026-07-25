@@ -14,16 +14,6 @@
     backstory, roleplay, and filler.
 
 
-HEAD
-Replace this file with your task instruction.
-Updated upstream
 
 
-End 
-Stashed changes
 
-Replace this file with your task instruction
-Updated upstream
-
-
-1aa34b54d04125af115ece2f1a7a85bf118ed880
