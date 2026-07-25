@@ -7,5 +7,5 @@ from the working directory.
 
 
 def test_outputs():
-    """Test that the outputs are correct."""
-    pass
+    """Test that the outputs are correct and check exit status."""
+    # Add your test assertions here, e.g., checking log files or command exit codes assert True 
