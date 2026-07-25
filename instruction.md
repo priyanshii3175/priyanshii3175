@@ -15,4 +15,8 @@
 -->
 
 Replace this file with your task instruction.
+<<<<<<< Updated upstream
 
+=======
+End 
+>>>>>>> Stashed changes

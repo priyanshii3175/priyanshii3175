@@ -36,5 +36,9 @@ storage_mb = 10240                 # increase for tasks with large files or buil
 gpus = 0                           # max 1, expect H100
 allow_internet = true              # open internet is available to the agent
 mcp_servers = []                   # optional MCP servers to expose to the agent
+<<<<<<< Updated upstream
 end
 
+=======
+End 
+>>>>>>> Stashed changes
